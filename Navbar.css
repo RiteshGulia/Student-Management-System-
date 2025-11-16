@@ -1,0 +1,53 @@
+.navbar {
+    background-color: #02478d;
+    padding: 10px 20px;
+    justify-content: space-between;
+    justify-content: center;
+}
+.navbar-brand {
+    color: #e5e5e5 !important;
+    font-size: 25px !important;
+    font-weight: bold !important;
+    margin-top: 5px !important;
+}
+.nav-item {
+    margin-top: 8px !important;
+    margin-right: 20px !important;
+    margin-left: 5px !important;
+}
+.nav-link1 {
+    color: #ded4d4 !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    margin-top: 5px !important;
+    margin-right: 20px !important;
+    margin-left: 10px !important;
+    
+}
+.nav-item:hover {
+    text-decoration: underline !important;
+    color: #ded4d4 !important;
+    font: 20px !important;
+}
+.nav-link2 {
+    color: #ded4d4 !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    margin-top: 5px !important;
+    margin-right: 20px !important;
+}
+.nav-link3 {
+    color: #ded4d4 !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    margin-top: 5px !important;
+    margin-right: 20px !important;
+}
+.btn {
+    color: #ded4d4 !important;
+    font-size: 13px !important;
+    border-color: #ded4d4 !important;
+}
+.d-flex {
+    margin-right: 15px;
+}

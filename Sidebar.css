@@ -1,0 +1,25 @@
+.dash {
+    background-color: #063689ff !important;
+    color: #f9f4f4 !important;
+}
+.component {
+    background-color: rgb(29, 75, 155) !important;
+    color: #ffffff !important;
+}
+.ps-menu-button:hover {
+  background-color: #335B8C !important;
+  color: #fff !important;
+  border-radius: 8px !important;
+  font-weight: bold !important;
+  cursor: pointer;
+}
+
+.logout-btn-style .ps-menu-button {
+    background-color: #d63333 !important; 
+    border-radius: 8px !important;
+    margin: 0 10px;
+    padding-left: 10px;
+}
+.logout-btn-style .ps-menu-button:hover {
+    background-color: #a02323 !important;
+}

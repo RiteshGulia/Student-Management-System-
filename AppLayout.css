@@ -1,0 +1,13 @@
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.content-area {
+  flex: 1;
+  min-width: 0; 
+  display: flex;
+  flex-direction: column;
+}

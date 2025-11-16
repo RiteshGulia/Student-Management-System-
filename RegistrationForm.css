@@ -1,0 +1,36 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+.container { 
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.md-card-style {
+  flex-grow: 1;
+  display: flex !important; 
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+  flex-direction: row; 
+  align-items: center; 
+}
+
+.card-body {
+  flex-grow: 1;
+  display: flex; 
+  flex-direction: column; 
+}
+.card-body .row {
+  flex-grow: 1;
+  align-items: center; 
+  height: 100%;
+}
+.md-card-style .col-lg-5,
+.md-card-style .col-lg-7 {
+    float: none; 
+}
